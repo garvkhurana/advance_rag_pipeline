@@ -1,0 +1,14 @@
+faiss-cpu
+langchain_community
+langchain_core
+langchain
+fatapi
+python-dotenv
+langserve
+langsmith
+sse-starlette
+pypdf
+bs4
+streamlit
+unicorn
+wikipedia 
